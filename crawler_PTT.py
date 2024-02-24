@@ -1,4 +1,5 @@
 import urllib.request as req
+# 使用 BeautifulSoup 協助我們解析 html 格式文件 
 import bs4
 # 抓取目標頁面原始碼(html)
 url="https://www.ptt.cc/bbs/movie/index.html"
